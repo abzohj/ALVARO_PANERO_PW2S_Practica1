@@ -34,7 +34,7 @@ ALVARO_PANERO_PW2S_Practica1/
    git clone https://github.com/abzohj/ALVARO_PANERO_PW2S_Practica1.git
 
 2. Entra en la carpeta:
-   cd burgerprince
+   cd ALVARO_PANERO_PW2S_Practica1
 
 3. Instala las dependencias:
    npm install
